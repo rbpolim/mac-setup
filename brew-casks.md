@@ -1,0 +1,13 @@
+iterm2
+rectangle
+alt-tab
+app-cleaner
+keepingyouawake
+vlc
+keka
+kap
+time-out
+gimp
+inkscape
+visual-studio-code
+insomnia
