@@ -2,11 +2,17 @@ iterm2
 rectangle
 alt-tab
 app-cleaner
-keepingyouawake
+httpie
+pnpm
+obsidian
+discord
+betterdisplay
+time-out
+
+## Sugestions
 vlc
 keka
 kap
-time-out
 gimp
 inkscape
 visual-studio-code
