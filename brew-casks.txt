@@ -8,6 +8,10 @@ obsidian
 discord
 betterdisplay
 time-out
+notion
+raycast
+shottr
+watchman
 
 ## Sugestions
 vlc
