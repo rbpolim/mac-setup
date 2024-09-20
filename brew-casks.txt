@@ -12,6 +12,8 @@ notion
 raycast
 shottr
 watchman
+xournal++
+
 
 ## Sugestions
 vlc
