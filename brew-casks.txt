@@ -12,7 +12,7 @@ notion
 raycast
 shottr
 watchman
-xournal++
+brew install --cask obsidian
 
 
 ## Sugestions
