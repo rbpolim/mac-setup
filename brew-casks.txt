@@ -13,6 +13,7 @@ raycast
 shottr
 watchman
 brew install --cask obsidian
+brew install --cask google-chrome
 
 
 ## Sugestions
